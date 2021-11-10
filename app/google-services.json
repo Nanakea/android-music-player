@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20665833482",
+    "project_id": "music-jogger",
+    "storage_bucket": "music-jogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20665833482:android:93ef277367bc8b98f6e7f3",
+        "android_client_info": {
+          "package_name": "com.music.musicjogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20665833482-2f9vcum4b5bbbl612e9lsfjhb03mhjvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgc_NrVwZReKHNxJxs92l6JXAEHmZX-V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20665833482-2f9vcum4b5bbbl612e9lsfjhb03mhjvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
